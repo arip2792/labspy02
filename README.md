@@ -51,6 +51,7 @@ count += 1:
 Menambahkan 1 ke variabel count setiap kali bilangan acak kurang dari 0.5 dicetak.
 #
 HASIL OUTPUTNYA
+
 ![image](https://github.com/user-attachments/assets/81503d2c-c9fe-4e52-8fdd-7bd674e14b1a)
 
 #

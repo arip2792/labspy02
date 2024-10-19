@@ -55,3 +55,7 @@ HASIL OUTPUTNYA
 ![image](https://github.com/user-attachments/assets/81503d2c-c9fe-4e52-8fdd-7bd674e14b1a)
 
 #
+
+# PROGRAM SEDERHANA DENGAN INPUT TIGA BILANGAN, DAN MENAMPILKAN BILANGAN TERBESARNYA.
+
+

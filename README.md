@@ -72,12 +72,12 @@ ALGORITMA
 
 6.Jika tidak, jika b > a dan b > c, maka:
 
-7.Cetak "Bilangan terbesar adalah b"
+  Cetak "Bilangan terbesar adalah b"
 
 8.Jika tidak, maka:
 
-9.Cetak "Bilangan terbesar adalah c"
+  Cetak "Bilangan terbesar adalah c"
 
-10.Selesai
+9.Selesai
 
 

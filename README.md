@@ -77,3 +77,9 @@ HASIL OUTPUTNYA
 8.Selesai
 
 
+# B. Flowchart
+
+
+# C. Hasil Output
+
+

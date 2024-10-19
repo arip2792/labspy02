@@ -1,4 +1,5 @@
 # LATIHAN1_P5
+
 ![image](https://github.com/user-attachments/assets/37001fa5-86ed-45b2-9b0b-328568a73e4c)
 
 Perulangan luar (for i in range(10)):
@@ -16,3 +17,5 @@ Perintah ini digunakan untuk pindah ke baris baru setelah setiap baris selesai d
 HASIL OUTPUTNYA
 
 ![image](https://github.com/user-attachments/assets/e37545fa-9bdf-412a-81b6-c3b446640dfb)
+
+#LATIHAN2_P5

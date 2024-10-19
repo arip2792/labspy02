@@ -82,4 +82,7 @@ HASIL OUTPUTNYA
 
 # C. Hasil Output
 
+![image](https://github.com/user-attachments/assets/65a4f059-4d9b-42e7-b842-fb7c2f3a334b)
+
+
 

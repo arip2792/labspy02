@@ -70,14 +70,10 @@ ALGORITMA
 
 5.Cetak "Bilangan terbesar adalah a"
 
-6.Jika tidak, jika b > a dan b > c, maka:
+6.Jika tidak, jika b > a dan b > c, maka: Cetak "Bilangan terbesar adalah b"
 
-  Cetak "Bilangan terbesar adalah b"
+7.Jika tidak, maka: Cetak "Bilangan terbesar adalah c"
 
-8.Jika tidak, maka:
-
-  Cetak "Bilangan terbesar adalah c"
-
-9.Selesai
+8.Selesai
 
 

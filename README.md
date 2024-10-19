@@ -21,3 +21,36 @@ HASIL OUTPUTNYA
 #
 
 # LATIHAN2_P5
+
+![image](https://github.com/user-attachments/assets/5198d7d4-0bfe-4d33-a665-b5f92288b3d2)
+
+PENJELASAN KODE :
+
+import random:
+Mengimpor modul random untuk menghasilkan bilangan acak.
+
+n = int(input("Masukkan jumlah n: ")):
+Meminta input dari pengguna berupa jumlah bilangan acak n yang ingin dihasilkan.
+
+count = 0:
+Inisialisasi variabel count untuk melacak jumlah bilangan acak yang dicetak (dimulai dari 0).
+
+while count < n::
+Loop while berjalan sampai count mencapai n.
+
+random_number = random.random():
+Menghasilkan bilangan acak antara 0 dan 1.
+
+if random_number < 0.5::
+Memeriksa apakah bilangan acak tersebut kurang dari 0.5.
+
+print(random_number):
+Mencetak bilangan acak jika memenuhi syarat (kurang dari 0.5).
+
+count += 1:
+Menambahkan 1 ke variabel count setiap kali bilangan acak kurang dari 0.5 dicetak.
+#
+HASIL OUTPUTNYA
+![image](https://github.com/user-attachments/assets/81503d2c-c9fe-4e52-8fdd-7bd674e14b1a)
+
+#

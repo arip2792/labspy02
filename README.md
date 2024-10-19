@@ -59,15 +59,25 @@ HASIL OUTPUTNYA
 # PROGRAM SEDERHANA DENGAN INPUT TIGA BILANGAN, DAN MENAMPILKAN BILANGAN TERBESARNYA.
 
 ALGORITMA
+
 1.Mulai
+
 2.Input tiga bilangan a, b, dan c
+
 3.Cetak nilai a, b, dan c
+
 4.Jika a > b dan a > c, maka:
+
 5.Cetak "Bilangan terbesar adalah a"
+
 6.Jika tidak, jika b > a dan b > c, maka:
+
 7.Cetak "Bilangan terbesar adalah b"
+
 8.Jika tidak, maka:
+
 9.Cetak "Bilangan terbesar adalah c"
+
 10.Selesai
 
 

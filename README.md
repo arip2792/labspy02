@@ -13,7 +13,7 @@ Ini mencetak hasil penjumlahan dari i (nilai dari perulangan luar) dan j (nilai 
 
 print() di luar perulangan dalam:
 Perintah ini digunakan untuk pindah ke baris baru setelah setiap baris selesai dicetak. Ini memastikan bahwa setelah 10 angka dicetak dalam satu baris, program pindah ke baris baru untuk iterasi berikutnya.
-
+#
 HASIL OUTPUTNYA
 
 ![image](https://github.com/user-attachments/assets/e37545fa-9bdf-412a-81b6-c3b446640dfb)

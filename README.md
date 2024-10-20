@@ -2,10 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/37001fa5-86ed-45b2-9b0b-328568a73e4c)
 
-Perulangan luar (for i in range(10)):
+Perulangan luar (for i in range(10):
 Perulangan ini mengontrol baris (dari 0 sampai 9). Jadi, ada 10 iterasi dari nilai i, di mana i akan bernilai mulai dari 0 hingga 9.
 
-Perulangan dalam (for j in range(10)):
+Perulangan dalam (for j in range(10):
 Perulangan ini mengontrol kolom (dari 0 sampai 9) di setiap baris. Setiap kali perulangan luar berjalan satu kali (setiap baris), perulangan dalam berjalan 10 kali (mencetak nilai dalam satu baris).
 
 print(i + j, end=" "):

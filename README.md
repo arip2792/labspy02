@@ -9,7 +9,9 @@ Perulangan dalam (for j in range(10):
 Perulangan ini mengontrol kolom (dari 0 sampai 9) di setiap baris. Setiap kali perulangan luar berjalan satu kali (setiap baris), perulangan dalam berjalan 10 kali (mencetak nilai dalam satu baris).
 
 print(i + j, end=" "):
-Ini mencetak hasil penjumlahan dari i (nilai dari perulangan luar) dan j (nilai dari perulangan dalam) di setiap iterasi. Parameter end=" " memastikan bahwa hasil penjumlahan tidak dipisahkan oleh baris baru, melainkan oleh spasi, sehingga setiap baris akan mencetak angka secara horizontal.
+Ini mencetak hasil penjumlahan dari i (nilai dari perulangan luar) dan j (nilai dari perulangan dalam) di setiap iterasi.
+
+Parameter end=" " memastikan bahwa hasil penjumlahan tidak dipisahkan oleh baris baru, melainkan oleh spasi, sehingga setiap baris akan mencetak angka secara horizontal.
 
 print() di luar perulangan dalam:
 Perintah ini digunakan untuk pindah ke baris baru setelah setiap baris selesai dicetak. Ini memastikan bahwa setelah 10 angka dicetak dalam satu baris, program pindah ke baris baru untuk iterasi berikutnya.

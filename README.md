@@ -79,6 +79,9 @@ HASIL OUTPUTNYA
 
 # B. Flowchart
 
+![image](https://github.com/user-attachments/assets/bf0f1945-77d8-43b6-9772-1d1c712f2c9e)
+
+
 
 # C. Hasil Output
 
